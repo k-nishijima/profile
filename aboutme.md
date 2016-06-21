@@ -23,7 +23,7 @@
 
 ## コミュニティ活動
 
-* JAWS−UG沖縄 副代表　[http://jaws-ug.jp/bc/okinawa/](http://jaws-ug.jp/bc/okinawa/)
+* JAWS−UG沖縄 コアメンバー　[http://jaws-ug.jp/bc/okinawa/](http://jaws-ug.jp/bc/okinawa/)
 * アワード：AWSサムライ2013および2014を拝命。
 * ハッカーズチャンプルー実行委員長　[http://hackers-champloo.org/](http://hackers-champloo.org/)
 
