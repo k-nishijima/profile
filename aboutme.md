@@ -29,7 +29,8 @@
 
 ## イベント講演資料等
 
-* [http://www.slideshare.net/KoichiroNishijima/presentations](http://www.slideshare.net/KoichiroNishijima/presentations)
+* [https://speakerdeck.com/knishijima/](https://speakerdeck.com/knishijima/)
+* 2018年10月以前の資料 [http://www.slideshare.net/KoichiroNishijima/presentations](http://www.slideshare.net/KoichiroNishijima/presentations)
 
 ## SNSアカウントなど
 
@@ -39,9 +40,10 @@
 
 ## 写真
 
-以下から適当にチョイスしてください。
+以下から適当にチョイス・トリミングしてください。
 
+* [いつものfaceicon](images/faceicon.png)
+* [2018/03/03 YAPC::Okinawa 2018 ONNASON](images/knishijima_yapc_okinawa_20180303.jpg)
 * [海辺その1](images/P5114846.jpg)
 * [海辺その2](images/P5114847.jpg)
-* [夏のJAWS-UG三都物語2014](images/14630358113_247f5fc249_o.jpg)
 
